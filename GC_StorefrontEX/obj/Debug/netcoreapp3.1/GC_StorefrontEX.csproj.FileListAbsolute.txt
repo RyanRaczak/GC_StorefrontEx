@@ -1,0 +1,14 @@
+C:\Users\RRaczak\source\repos\DevBuild\GC_StorefrontEX\GC_StorefrontEX\bin\Debug\netcoreapp3.1\GC_StorefrontEX.exe
+C:\Users\RRaczak\source\repos\DevBuild\GC_StorefrontEX\GC_StorefrontEX\bin\Debug\netcoreapp3.1\GC_StorefrontEX.deps.json
+C:\Users\RRaczak\source\repos\DevBuild\GC_StorefrontEX\GC_StorefrontEX\bin\Debug\netcoreapp3.1\GC_StorefrontEX.runtimeconfig.json
+C:\Users\RRaczak\source\repos\DevBuild\GC_StorefrontEX\GC_StorefrontEX\bin\Debug\netcoreapp3.1\GC_StorefrontEX.runtimeconfig.dev.json
+C:\Users\RRaczak\source\repos\DevBuild\GC_StorefrontEX\GC_StorefrontEX\bin\Debug\netcoreapp3.1\GC_StorefrontEX.dll
+C:\Users\RRaczak\source\repos\DevBuild\GC_StorefrontEX\GC_StorefrontEX\bin\Debug\netcoreapp3.1\GC_StorefrontEX.pdb
+C:\Users\RRaczak\source\repos\DevBuild\GC_StorefrontEX\GC_StorefrontEX\obj\Debug\netcoreapp3.1\GC_StorefrontEX.csproj.AssemblyReference.cache
+C:\Users\RRaczak\source\repos\DevBuild\GC_StorefrontEX\GC_StorefrontEX\obj\Debug\netcoreapp3.1\GC_StorefrontEX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RRaczak\source\repos\DevBuild\GC_StorefrontEX\GC_StorefrontEX\obj\Debug\netcoreapp3.1\GC_StorefrontEX.AssemblyInfoInputs.cache
+C:\Users\RRaczak\source\repos\DevBuild\GC_StorefrontEX\GC_StorefrontEX\obj\Debug\netcoreapp3.1\GC_StorefrontEX.AssemblyInfo.cs
+C:\Users\RRaczak\source\repos\DevBuild\GC_StorefrontEX\GC_StorefrontEX\obj\Debug\netcoreapp3.1\GC_StorefrontEX.csproj.CoreCompileInputs.cache
+C:\Users\RRaczak\source\repos\DevBuild\GC_StorefrontEX\GC_StorefrontEX\obj\Debug\netcoreapp3.1\GC_StorefrontEX.dll
+C:\Users\RRaczak\source\repos\DevBuild\GC_StorefrontEX\GC_StorefrontEX\obj\Debug\netcoreapp3.1\GC_StorefrontEX.pdb
+C:\Users\RRaczak\source\repos\DevBuild\GC_StorefrontEX\GC_StorefrontEX\obj\Debug\netcoreapp3.1\GC_StorefrontEX.genruntimeconfig.cache
